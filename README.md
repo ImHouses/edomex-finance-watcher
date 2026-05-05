@@ -1,6 +1,6 @@
 # tramite-watcher
 
-Polls a single SFPYA Edomex trámite (`AVN-19252347-2026`) on a 30-minute systemd timer and sends a Telegram notification when its status changes.
+Polls a single SFPYA Edomex trámite (`#-folio`) on a 30-minute systemd timer and sends a Telegram notification when its status changes.
 
 See `CLAUDE.md` for the full technical brief and milestone plan.
 
